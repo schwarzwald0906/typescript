@@ -10,7 +10,7 @@ export const Practice3 = () => {
   };
   return (
     <div>
-      <p>練習問題②</p>
+      <p>練習問題③</p>
       <button onClick={onClickPractice}>練習</button>
     </div>
   );
